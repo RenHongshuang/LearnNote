@@ -34,9 +34,9 @@ AnimatedWidget的状态对象是AnimatedWidget内部实现细节，不应该暴�
 
 
 ## 2.在Widget树中获取State对象
-1.通过context.findAncestorStateOfType()
-2.通过静态的of方法
-3.通过globalkey获取
+1.通过context.findAncestorStateOfType() 
+2.通过静态的of方法 
+3.通过globalkey获取 
 
 
 
