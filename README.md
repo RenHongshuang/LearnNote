@@ -105,7 +105,7 @@ https://www.jianshu.com/p/345f4d8a5cfa
 
 [图文]: https://mp.weixin.qq.com/s/S1Jcm1YOyEPRZpvB0DlPDQ
 
-![640](640.png)
+![img](https://mmbiz.qpic.cn/mmbiz_png/JJRW7FxQRExGEvHCSlBlBDLibfHJXldiaZTnV09WEY15A2dFwdTaXIE6tPomW5Qr1t09fOMibUo47GM4OoKUP0flw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## Java 内存分配模型
 
@@ -401,3 +401,6 @@ c.通过Hook ResourcesManager替换
 2.不要频繁使用sp在，尽量批量操作
 
 3.数据库操作用使用事务
+
+
+
